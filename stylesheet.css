@@ -1,0 +1,80 @@
+body {
+  background-color: #24242A;
+}
+
+div {
+  border-radius: 7px;
+  display: inline-block;
+}
+
+.button {
+  border: 2px solid black;
+  padding: 5px;
+  background-color: #272727;
+}
+
+.everything {
+  display: block;
+  min-width: 400px;
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.topbar { 
+  background: none repeat scroll #313131;
+  padding: 5px;
+  color: #ddd;
+  text-shadow: 1px 1px 1px #222;
+  width: 697px;
+  border: 2px solid black;
+ }
+
+.topbar p {
+  display: inline;
+ }
+
+.sidemenu {
+  display: block;
+  float: left;
+  width: 290px;
+  padding-top: 12px;
+  margin-left: -200px;
+  border: 2px solid;
+  color: #FAF8F3
+}
+
+.left {
+  display: block;
+  float: left;
+  width: 705px;
+  border: 2px solid;
+  clear: right;
+  padding: -12px 10px 8px 10px;
+  background-color: #4C4C4C;
+  color: #FAF8F3;
+}
+
+.center {
+  float: center;
+  width: 705px;
+  border: 2px solid;
+  padding: -12px 10px 8px 10px;
+  background-color: #4C4C4C;
+  clear: right;
+  color: #FAF8F3;
+}
+
+.right {
+  display: block;
+  float: left;
+  width: 705px;
+  margin-right: 32px;
+  border: 2px solid;
+  padding: -12px 10px 8px 10px;;
+  clear: right;
+  background-color: #4C4C4C;
+  color: #FAF8F3;
+}
+
+
